@@ -1,0 +1,10 @@
+Left
+Done
+Down
+Done
+Right
+Done
+Up
+Done
+Done
+End
