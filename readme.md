@@ -2,6 +2,9 @@
 
 This repository contains the implementation of a Hybrid Brain-Computer Interface (BCI) system developed for my Master's Thesis at National Tsing Hua University. The system combines Motor Imagery (MI) and Steady-State Visual Evoked Potentials (SSVEP) to achieve high-dimensional control, specifically applied to an interactive AI image generation workflow.
 
+For more technical details and research findings, please refer to [this slide](https://docs.google.com/presentation/d/1hijxKgEqudbu7nv5oV2CuZc83u1XkFZ9/edit?usp=sharing&ouid=117663849590765686800&rtpof=true&sd=true).
+
+
 ## Overview
 
 Traditional BCIs often struggle with a limited number of control commands or high mental fatigue. This project implements a hybrid framework:
